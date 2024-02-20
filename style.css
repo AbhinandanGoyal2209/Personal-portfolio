@@ -1,0 +1,58 @@
+
+    *{
+        font-family:'Times New Roman', Times, serif
+    }
+    h1{
+        margin-top:0;
+        margin-bottom:0
+
+    }
+
+    #aside{
+        color:white;
+        background-color: #41b4b0;
+        display:flex;
+        flex-direction:column;
+        align-items:flex-start;
+        padding:30px;
+        margin-right:70px;
+        font-size:16px;
+        /** display:inline-block; */
+        height:100vh;
+        position:relative;
+        left:50px;
+        float:left;
+        
+
+
+        
+    }
+    
+
+
+    img{
+        border-radius:50%;
+       /** border: 3cap solid white;
+        margin:1px;**/
+    }
+
+    pre{
+        line-height:30px
+    }
+
+    #nam_bar{
+        height:247px;
+        background-color: #fac4ab;
+
+    
+
+        
+    }
+
+    #nam_bar h1{ 
+       position:relative;
+        bottom:0px;
+        right:70px;
+        margin:0;
+        font-weight:500;
+    }
